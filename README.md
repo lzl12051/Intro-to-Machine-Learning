@@ -1,1 +1,3 @@
-# Intro-to-Mechaine-Learning
+# Intro to Machine Learning
+
+This course is from Udacity Ud120.
